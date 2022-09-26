@@ -1,0 +1,7 @@
+value:
+    - url: ""
+      before_version: ""
+      version: v1.6.0
+      repo_name: Xray-core
+      owner: XTLS
+      change_log: ""
